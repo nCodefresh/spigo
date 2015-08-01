@@ -50,3 +50,6 @@
 ./spigo -a netflixoss -d 5 -j -p 300 -s 8 -w 6
 ./spigo -a netflixoss -d 5 -j -p 400 -s 9 -w 6 -f=true
 ./spigo -a testyaml -d 2 -j
+./spigo -a yogi -d 5 -j -p 100 -s 1 -w 1
+./spigo -a yogi -d 5 -j -p 100 -s 2 -w 2
+./spigo -a yogi -d 5 -j -p 100 -s 3 -w 3

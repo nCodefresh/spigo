@@ -1,0 +1,37 @@
+Trace:  2:18:19:netflix.us-east-1.*.api-elb0....api-elb.elb 2:11:11:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  6:37:38:netflix.ap-southeast-2.*.api-elb0....api-elb.elb 6:30:30:netflix.ap-southeast-2.*.api-elb0....api-elb.elb
+Trace:  8:57:58:netflix.eu-central-1.*.api-elb0....api-elb.elb 8:50:50:netflix.eu-central-1.*.api-elb0....api-elb.elb
+Trace:  9:60:60:netflix.us-east-1.*.api-elb0....api-elb.elb 9:67:68:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  10:79:80:netflix.us-west-2.*.api-elb0....api-elb.elb 10:70:70:netflix.us-west-2.*.api-elb0....api-elb.elb
+Trace:  11:82:82:netflix.eu-central-1.*.api-elb0....api-elb.elb 11:89:90:netflix.eu-central-1.*.api-elb0....api-elb.elb
+Trace:  16:99:99:netflix.us-east-1.*.api-elb0....api-elb.elb 16:106:107:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  19:138:139:netflix.us-west-2.*.api-elb0....api-elb.elb 19:133:133:netflix.us-west-2.*.api-elb0....api-elb.elb
+Trace:  23:166:166:netflix.us-east-1.*.api-elb0....api-elb.elb 23:171:172:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  29:217:217:netflix.ap-southeast-2.*.api-elb0....api-elb.elb 29:226:227:netflix.ap-southeast-2.*.api-elb0....api-elb.elb
+Trace:  33:253:253:netflix.ap-southeast-1.*.api-elb0....api-elb.elb 33:260:261:netflix.ap-southeast-1.*.api-elb0....api-elb.elb
+Trace:  36:281:281:netflix.us-east-1.*.api-elb0....api-elb.elb 36:288:289:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  37:298:299:netflix.ap-southeast-1.*.api-elb0....api-elb.elb 37:291:291:netflix.ap-southeast-1.*.api-elb0....api-elb.elb
+Trace:  38:301:301:netflix.eu-central-1.*.api-elb0....api-elb.elb 38:308:309:netflix.eu-central-1.*.api-elb0....api-elb.elb
+Trace:  40:319:320:netflix.us-east-1.*.api-elb0....api-elb.elb 40:312:312:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  41:329:330:netflix.us-west-2.*.api-elb0....api-elb.elb 41:322:322:netflix.us-west-2.*.api-elb0....api-elb.elb
+Trace:  43:344:345:netflix.us-west-2.*.api-elb0....api-elb.elb 43:339:339:netflix.us-west-2.*.api-elb0....api-elb.elb
+Trace:  44:347:347:netflix.ap-southeast-2.*.api-elb0....api-elb.elb 44:352:353:netflix.ap-southeast-2.*.api-elb0....api-elb.elb
+Trace:  47:369:369:netflix.eu-central-1.*.api-elb0....api-elb.elb 47:376:377:netflix.eu-central-1.*.api-elb0....api-elb.elb
+Trace:  48:379:379:netflix.ap-southeast-2.*.api-elb0....api-elb.elb 48:386:387:netflix.ap-southeast-2.*.api-elb0....api-elb.elb
+Trace:  50:403:404:netflix.us-east-1.*.api-elb0....api-elb.elb 50:394:394:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  52:425:426:netflix.ap-southeast-1.*.api-elb0....api-elb.elb 52:418:418:netflix.ap-southeast-1.*.api-elb0....api-elb.elb
+Trace:  54:429:429:netflix.us-east-1.*.api-elb0....api-elb.elb 54:436:437:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  56:458:459:netflix.ap-southeast-1.*.api-elb0....api-elb.elb 56:449:449:netflix.ap-southeast-1.*.api-elb0....api-elb.elb
+Trace:  58:471:471:netflix.eu-central-1.*.api-elb0....api-elb.elb 58:478:479:netflix.eu-central-1.*.api-elb0....api-elb.elb
+Trace:  60:491:491:netflix.ap-southeast-1.*.api-elb0....api-elb.elb 60:498:499:netflix.ap-southeast-1.*.api-elb0....api-elb.elb
+Trace:  61:510:511:netflix.eu-central-1.*.api-elb0....api-elb.elb 61:501:501:netflix.eu-central-1.*.api-elb0....api-elb.elb
+Trace:  66:551:552:netflix.ap-southeast-2.*.api-elb0....api-elb.elb 66:544:544:netflix.ap-southeast-2.*.api-elb0....api-elb.elb
+Trace:  69:585:586:netflix.ap-southeast-1.*.api-elb0....api-elb.elb 69:578:578:netflix.ap-southeast-1.*.api-elb0....api-elb.elb
+Trace:  70:0:588:netflix.*.*.api0....api.denominator 70:588:594:netflix.us-west-2.*.api-elb0....api-elb.elb 70:609:610:netflix.us-west-2.*.api-elb0....api-elb.elb
+Trace:  73:619:620:netflix.ap-southeast-1.*.api-elb0....api-elb.elb 73:612:612:netflix.ap-southeast-1.*.api-elb0....api-elb.elb
+Trace:  71:589:590:netflix.us-east-1.*.api-elb0....api-elb.elb 71:624:625:netflix.us-east-1.*.api-elb0....api-elb.elb 71:0:589:netflix.*.*.api0....api.denominator
+Trace:  79:674:675:netflix.eu-central-1.*.api-elb0....api-elb.elb 79:667:667:netflix.eu-central-1.*.api-elb0....api-elb.elb
+Trace:  81:681:681:netflix.eu-central-1.*.api-elb0....api-elb.elb 81:688:689:netflix.eu-central-1.*.api-elb0....api-elb.elb
+Trace:  84:0:714:netflix.*.*.api0....api.denominator 84:714:715:netflix.us-east-1.*.api-elb0....api-elb.elb 84:747:748:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  85:717:749:netflix.us-east-1.*.api-elb0....api-elb.elb 85:0:717:netflix.*.*.api0....api.denominator 85:756:757:netflix.us-east-1.*.api-elb0....api-elb.elb
+Trace:  87:759:759:netflix.us-west-2.*.api-elb0....api-elb.elb 87:766:767:netflix.us-west-2.*.api-elb0....api-elb.elb
