@@ -8,7 +8,7 @@ module.exports = function(gulp) {
 		gulp.task('serve', function () {
 			connect.server({
 				root: ['dist'],
-				port: 8000,
+				port: process.env.PORT,
 				livereload: true,
 				fallback: 'index.html'
 			});

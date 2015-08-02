@@ -7,4 +7,4 @@ RUN ln -s `which nodejs` /usr/bin/node
 COPY ./ /src
 WORKDIR /src/ui
 
-CMD npm run dev
+CMD ["npm" , "run" , "dev"]
