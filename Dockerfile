@@ -8,5 +8,5 @@ RUN ln -s `which nodejs` /usr/bin/node
 COPY ./ /src
 WORKDIR /src/ui
 
-CMD ["gulp", "-version"]
-#CMD ["npm" , "run" , "dev"]
+#CMD ["gulp", "-version"]
+CMD ["npm" , "run" , "dev"]
