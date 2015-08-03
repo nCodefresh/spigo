@@ -4,10 +4,10 @@
   "description": "Visualize Protocol Interactions in D3, using JSON genarated by Spigo",
   "main": "",
   "scripts": {
-    "test": "node_modules/.bin/gulp test",
-    "lint": "node_modules/.bin/gulp lint",
-    "dev": "node_modules/.bin/gulp dev",
-    "build": "node_modules/.bin/gulp build-prod"
+    "test": "gulp test",
+    "lint": "gulp lint",
+    "dev": "gulp dev",
+    "build": "gulp build-prod"
   },
   "repository": {
     "type": "git",
